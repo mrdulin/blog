@@ -8,4 +8,4 @@
 
 # tools
 
-https://trello.com/official_dulin/recommend
+https://trello.com/official_dulin/recommend - [Trello使用快照（多图）](https://github.com/mrdulin/blog/issues/47)
