@@ -2,7 +2,7 @@
 
 # Signatures
 
-![steam](http://steamsignature.com/card/0/76561198142513329.png)
+<a href="http://steamsignature.com"><img src="https://steamsignature.com/profile/default/76561198142513329.png" alt=""/></a>
 
 ![osu](http://lemmmy.pw/osusig/sig.php?colour=hex66ccff&uname=slideshowp2&mode=3&countryrank&flagshadow&darkheader&opaqueavatar&onlineindicator=undefined&xpbar)
 
