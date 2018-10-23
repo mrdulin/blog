@@ -2,7 +2,7 @@
 
 ## Signatures
 
-### STEAM
+### steam
 
 <a href="http://steamsignature.com"><img src="https://steamsignature.com/profile/default/76561198142513329.png" alt=""/></a>
 
