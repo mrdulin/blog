@@ -18,6 +18,4 @@
 
 ## Social
 
-### 网易云音乐
-
-https://music.163.com/#/user/home?id=294332687
+网易云音乐: https://music.163.com/#/user/home?id=294332687
