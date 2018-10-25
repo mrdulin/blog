@@ -16,8 +16,6 @@
 <img src="https://stackoverflow.com/users/flair/6463558.png" width="208" height="58" alt="profile for novaline at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for novaline at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-<img src="https://apa.me/news">
-
 ## Social
 
 网易云音乐: https://music.163.com/#/user/home?id=294332687
