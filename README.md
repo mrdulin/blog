@@ -18,4 +18,7 @@
 
 ## Social
 
-网易云音乐: https://music.163.com/#/user/home?id=294332687
+- 网易云音乐: https://music.163.com/#/user/home?id=294332687
+- osu!: https://osu.ppy.sh/users/6112485
+- Steam: https://steamcommunity.com/id/sspeed5cm
+- Stackoverflow: https://stackoverflow.com/users/6463558/novaline
