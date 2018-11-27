@@ -22,3 +22,4 @@
 - osu!: https://osu.ppy.sh/users/6112485
 - Steam: https://steamcommunity.com/id/sspeed5cm
 - Stackoverflow: https://stackoverflow.com/users/6463558/novaline
+- 虾米音乐: https://www.xiami.com/u/38901955
