@@ -23,3 +23,7 @@
 - Steam: https://steamcommunity.com/id/sspeed5cm
 - Stackoverflow: https://stackoverflow.com/users/6463558/novaline
 - 虾米音乐: https://www.xiami.com/u/38901955
+
+---
+
+> 谨以此博客，纪念我们逝去的青春，那些相濡以沫的日子。@ElsaXu
