@@ -1,7 +1,5 @@
 # Go to [Blog](https://github.com/mrdulin/blog/issues)
 
-文章图片使用`Github`自带图床，需要梯子
-
 ## Signatures
 
 ### steam
