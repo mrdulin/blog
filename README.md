@@ -4,7 +4,7 @@
 
 ### steam
 
-<a href="http://steamsignature.com"><img src="https://steamsignature.com/profile/default/76561198142513329.png" alt=""/></a>
+<a href="http://steamsignature.com"><img src="https://steamsignature.com/card/0/76561198142513329.png" alt=""/></a>
 
 ### osu!
 
