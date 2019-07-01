@@ -8,7 +8,7 @@
 
 ### osu!
 
-![osu](http://lemmmy.pw/osusig/sig.php?colour=hex66ccff&uname=slideshowp2&mode=3&countryrank&flagshadow&darkheader&opaqueavatar&onlineindicator=undefined&xpbar)
+![osu](https://osusig.lolico.moe/sig.php?colour=yellow&uname=slideshowp2&mode=3&pp=1&countryrank&flagstroke&darkheader&darktriangles&xpbar)
 
 ### stackoverflow
 
