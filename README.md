@@ -20,9 +20,10 @@
 
 - 网易云音乐: https://music.163.com/#/user/home?id=294332687
 - osu!: https://osu.ppy.sh/users/6112485
-- Steam: https://steamcommunity.com/id/sspeed5cm
-- Stackoverflow: https://stackoverflow.com/users/6463558/novaline
+- steam: https://steamcommunity.com/id/sspeed5cm
+- stackoverflow: https://stackoverflow.com/users/6463558/novaline
 - 虾米音乐: https://www.xiami.com/u/38901955
+- steamcn: https://steamcn.com/?274305
 
 ## Counter
 
