@@ -25,6 +25,7 @@
 - 虾米音乐: https://www.xiami.com/u/38901955
 - steamcn: https://steamcn.com/?274305
 - imgur: https://imgur.com/user/slideshowp2/submitted
+- 百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172
 
 ## Counter
 
