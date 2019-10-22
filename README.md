@@ -28,6 +28,7 @@
 - 百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172
 - discord: slideshowp2#8611
 - youtube: https://www.youtube.com/channel/UC4xtSPPa6fWUlr43XsZeOAQ
+- <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=365715693&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:365715693:51" alt="QQ交谈" title="QQ交谈"/></a>
 
 ## Counter
 
