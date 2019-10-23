@@ -28,7 +28,6 @@
 - 百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172
 - discord: slideshowp2#8611
 - youtube: https://www.youtube.com/channel/UC4xtSPPa6fWUlr43XsZeOAQ
-- QQ: 365715693
 
 ## Counter
 
