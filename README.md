@@ -23,7 +23,7 @@
 - steam: https://steamcommunity.com/id/sspeed5cm
 - stackoverflow: https://stackoverflow.com/users/6463558/novaline
 - 虾米音乐: https://www.xiami.com/u/38901955
-- steamcn: https://steamcn.com/?274305
+- steamcn: https://keylol.com/suid-274305
 - imgur: https://imgur.com/user/slideshowp2/submitted
 - 百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172
 - discord: slideshowp2#8611
