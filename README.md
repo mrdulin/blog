@@ -28,6 +28,7 @@
 - 百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172
 - discord: slideshowp2#8611
 - youtube: https://www.youtube.com/channel/UC4xtSPPa6fWUlr43XsZeOAQ
+- douban: https://www.douban.com/people/149255172/
 
 ## Counter
 
