@@ -35,9 +35,11 @@
 
 ## Credits
 
-### Backers
+### [Backers](https://opencollective.com/slideshowp2#backer)
 
-[Become a backer](https://opencollective.com/slideshowp2) and get your image on our README on Github with a link to your site.
+Thank you to all our backers! 🙏
+
+<a href="https://opencollective.com/slideshowp2#backers" target="_blank"><img src="https://opencollective.com/slideshowp2/backers.svg?width=890"></a>
 
 
 
