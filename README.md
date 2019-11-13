@@ -31,6 +31,15 @@
 - douban: https://www.douban.com/people/149255172/
 - twitter: https://twitter.com/slideshowp2
 - opencollective: https://opencollective.com/lin-du
+- paypal: https://paypal.me/slideshowp2
+
+## Credits
+
+### Backers
+
+[Become a backer](https://opencollective.com/slideshowp2) and get your image on our README on Github with a link to your site.
+
+
 
 ## Counter
 
