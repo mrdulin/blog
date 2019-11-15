@@ -31,7 +31,6 @@
 - douban: https://www.douban.com/people/149255172/
 - twitter: https://twitter.com/slideshowp2
 - opencollective: https://opencollective.com/lin-du
-- paypal: https://paypal.me/slideshowp2
 - wikipedia: https://zh.wikipedia.org/wiki/User:Slideshowp2/%E5%85%B3%E4%BA%8E%E6%88%91
 
 ## Credits
