@@ -39,7 +39,7 @@
 
 Thank you to all our backers! 🙏
 
-<a href="https://opencollective.com/slideshowp2#backers" target="_blank"><img src="https://opencollective.com/slideshowp2/backers.svg?width=890"></a>
+<object type="image/svg+xml" data="https://opencollective.com/collective/tiers/backers.svg?avatarHeight=36&width=600"></object>
 
 
 ## Counter
