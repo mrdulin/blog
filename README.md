@@ -32,6 +32,7 @@
 - twitter: https://twitter.com/slideshowp2
 - opencollective: https://opencollective.com/lin-du
 - wikipedia: https://zh.wikipedia.org/wiki/User:Slideshowp2/%E5%85%B3%E4%BA%8E%E6%88%91
+- IMDb: https://www.imdb.com/user/ur91949575
 
 ## Credits
 
