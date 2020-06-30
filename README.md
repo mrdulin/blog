@@ -2,19 +2,23 @@
 
 ## Signatures
 
-### steam
+### Steam
 
 <a href="http://steamsignature.com"><img src="https://steamsignature.com/card/0/76561198142513329.png" alt=""/></a>
 
-### osu!
+### OSU!
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=yellow&uname=slideshowp2&mode=3&pp=1&countryrank&flagstroke&darkheader&darktriangles&xpbar)
 
-### stackoverflow
+### Stack Overflow
 
 <a href="https://stackoverflow.com/users/6463558/novaline">
 <img src="https://stackoverflow.com/users/flair/6463558.png" width="208" height="58" alt="profile for novaline at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for novaline at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
+
+### CodeWars
+
+![cw](https://www.codewars.com/users/mrdulin/badges/large)
 
 ## Social
 
