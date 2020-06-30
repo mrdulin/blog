@@ -18,7 +18,7 @@
 
 ### CodeWars
 
-![cw](https://www.codewars.com/users/mrdulin/badges/large)
+ <a target="_blank" href="https://www.codewars.com/users/mrdulin"><img src="https://www.codewars.com/users/mrdulin/badges/large" alt="codewars badge large" /></a>
 
 ## Social
 
