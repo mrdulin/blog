@@ -30,7 +30,7 @@
 - 虾米音乐: https://www.xiami.com/u/38901955
 - keylol（其乐）: https://keylol.com/suid-274305
 - imgur: https://imgur.com/user/slideshowp2/submitted
-- 百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172
+- <del>百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172</del>
 - discord: slideshowp2#8611
 - youtube: https://www.youtube.com/channel/UC4xtSPPa6fWUlr43XsZeOAQ
 - douban: https://www.douban.com/people/149255172/
