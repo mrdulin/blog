@@ -48,6 +48,17 @@ Thank you to all our backers! 🙏
 
 <a href="https://opencollective.com/slideshowp2#backers" target="_blank"><img src="https://opencollective.com/slideshowp2/backers.svg?width=890"></a>
 
+### Colleagues
+
+<table>
+  <tr>
+    <td align="center"><a href="http://www.shiffman.net"><img src="https://avatars0.githubusercontent.com/u/4189801?v=4" width="100px;" alt=""/><br /><sub><b>Tobias Nickel</b></sub><br />
+     <a href="http://tnickel.de/" title="Tobias Nickel">🏠</a> 
+     <a href="https://www.npmjs.com/~nickeltobias" title="npm"><img src="https://avatars0.githubusercontent.com/u/6078720?s=16&v=4" /></a>
+     <a href="https://github.com/TobiasNickel" title="github"><img src="https://avatars1.githubusercontent.com/u/9919?s=16&v=4" /></a>
+   </td>
+ </tr>
+</table>
 
 ## Counter
 
