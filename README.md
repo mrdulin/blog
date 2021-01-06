@@ -27,7 +27,7 @@
 - steam: https://steamcommunity.com/id/slideshowp2/
 - stackoverflow: https://stackoverflow.com/users/6463558/slideshowp2
 - codewars: https://www.codewars.com/users/mrdulin
-- 虾米音乐: https://www.xiami.com/u/38901955
+- <del>虾米音乐: https://www.xiami.com/u/38901955</del>
 - keylol（其乐）: https://keylol.com/suid-274305
 - imgur: https://imgur.com/user/slideshowp2/submitted
 - <del>百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172</del>
