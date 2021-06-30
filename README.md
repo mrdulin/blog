@@ -46,7 +46,15 @@
 
 Thank you to all our backers! 🙏
 
-<a href="https://opencollective.com/slideshowp2#backers" target="_blank"><img src="https://opencollective.com/slideshowp2/backers.svg?width=890"></a>
+<!-- <a href="https://opencollective.com/slideshowp2#backers" target="_blank"><img src="https://opencollective.com/slideshowp2/backers.svg?width=890"></a> -->
+<a href="https://opencollective.com/slideshowp2/backer/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/slideshowp2/backer/0/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/slideshowp2/backer/1/website?requireActive=false" target="_blank"><img src="https://opencollective.com/slideshowp2/backer/1/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/slideshowp2/backer/2/website?requireActive=false" target="_blank"><img src="https://opencollective.com/slideshowp2/backer/2/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/slideshowp2/backer/3/website?requireActive=false" target="_blank"><img src="https://opencollective.com/slideshowp2/backer/3/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/slideshowp2/backer/4/website?requireActive=false" target="_blank"><img src="https://opencollective.com/slideshowp2/backer/4/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/slideshowp2/backer/5/website?requireActive=false" target="_blank"><img src="https://opencollective.com/slideshowp2/backer/5/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/slideshowp2#backers" target="_blank"><img src="https://images.opencollective.com/static/images/become_backer.svg"></a>
+
 
 ### Colleagues
 
