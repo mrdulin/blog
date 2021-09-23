@@ -4,7 +4,8 @@
 
 ### Steam
 
-<a href="http://www.steamsignature.com"><img src="http:s//www.steamsignature.com/card/0/76561198142513329.png" alt="slideshowp2's steam signature"/></a>
+<a href="http://www.steamsignature.com"><img src="https://www.steamsignature.com/card/0/76561198142513329.png" alt="slideshowp2's steam signature"/></a>
+
 
 ### OSU!
 
