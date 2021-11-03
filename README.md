@@ -40,6 +40,7 @@
 - wikipedia: https://zh.wikipedia.org/wiki/User:Slideshowp2/%E5%85%B3%E4%BA%8E%E6%88%91
 - IMDb: https://www.imdb.com/user/ur91949575
 - beatstage: https://www.beatstage.com/profile/2121
+- soundcloud: https://soundcloud.com/slideshowp2/likes
 
 ## Credits
 
