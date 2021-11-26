@@ -4,8 +4,14 @@
 
 ### Steam
 
-<a href="http://www.steamsignature.com"><img src="https://www.steamsignature.com/card/0/76561198142513329.png" alt="slideshowp2's steam signature"/></a>
+**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198142513329/?cc=cn))*
 
+* **Value:** ¥ 14307 (¥ 7422 with sales)
+* **Games owned:** 1397
+* **Games played:** 385 *(27%)*
+* **Hours on record:** 5,745.7h
+
+<a href="http://www.steamsignature.com"><img src="https://www.steamsignature.com/card/0/76561198142513329.png" alt="slideshowp2's steam signature"/></a>
 
 ### OSU!
 
