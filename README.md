@@ -20,9 +20,6 @@
 
  <a target="_blank" href="https://www.codewars.com/users/mrdulin"><img src="https://www.codewars.com/users/mrdulin/badges/large" alt="codewars badge large" /></a>
 
-### daily.dev
-
-<a href="https://app.daily.dev/Lin_Du"><img src="https://api.daily.dev/devcards/de525bafe27745f1837d14f74f4fdb18.png?r=vlh" width="200" alt="official_dulin's Dev Card"/></a>
 
 ## Social
 
