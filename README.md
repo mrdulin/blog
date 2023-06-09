@@ -27,6 +27,7 @@
 - osu!: https://osu.ppy.sh/users/6112485
 - steam: https://steamcommunity.com/id/slideshowp2/
 - stackoverflow: https://stackoverflow.com/users/6463558/slideshowp2
+- Stack Exchange: https://stackexchange.com/users/8632300/lin-du
 - codewars: https://www.codewars.com/users/mrdulin
 - <del>虾米音乐: https://www.xiami.com/u/38901955</del>
 - keylol（其乐）: https://keylol.com/suid-274305
