@@ -33,7 +33,6 @@
 - keylol（其乐）: https://keylol.com/suid-274305
 - imgur: https://imgur.com/user/slideshowp2/submitted
 - <del>百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172</del>
-- <del>discord: slideshowp2#8611</del>
 - youtube: https://youtube.com/@slideshowp2
 - douban: https://www.douban.com/people/149255172/
 - twitter: https://twitter.com/slideshowp2
