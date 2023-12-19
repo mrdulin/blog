@@ -10,12 +10,6 @@
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=yellow&uname=slideshowp2&mode=3&pp=1&countryrank&flagstroke&darkheader&darktriangles&xpbar)
 
-### Stack Overflow (*[Top 10 Users By Country](https://data.stackexchange.com/stackoverflow/query/1521890/top-10-users-by-country?CountryName=china)*)
-
-<a href="https://stackoverflow.com/users/6463558/novaline">
-<img src="https://stackoverflow.com/users/flair/6463558.png" width="208" height="58" alt="profile for novaline at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for novaline at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
 ### CodeWars
 
  <a target="_blank" href="https://www.codewars.com/users/mrdulin"><img src="https://www.codewars.com/users/mrdulin/badges/large" alt="codewars badge large" /></a>
