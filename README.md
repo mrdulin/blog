@@ -27,9 +27,7 @@
 - keylol（其乐）: https://keylol.com/suid-274305
 - imgur: https://imgur.com/user/slideshowp2/submitted
 - <del>百事乐团: http://www.allcombo.com/bbs/space.php?uid=18172</del>
-- youtube: https://youtube.com/@slideshowp2
 - douban: https://www.douban.com/people/149255172/
-- twitter: https://twitter.com/slideshowp2
 - opencollective: https://opencollective.com/lin-du
 - wikipedia: https://zh.wikipedia.org/wiki/User:Slideshowp2/%E5%85%B3%E4%BA%8E%E6%88%91
 - IMDb: https://www.imdb.com/user/ur91949575
