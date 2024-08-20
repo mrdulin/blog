@@ -19,8 +19,8 @@
 
 - 网易云音乐: https://music.163.com/#/user/home?id=294332687
 - osu!: https://osu.ppy.sh/users/6112485
-- steam: https://steamcommunity.com/id/slideshowp2/
-- stackoverflow: https://stackoverflow.com/users/6463558/slideshowp2
+- steam: https://steamcommunity.com/profiles/76561198142513329/
+- stackoverflow: https://stackoverflow.com/users/6463558/lin-du
 - Stack Exchange: https://stackexchange.com/users/8632300/lin-du
 - codewars: https://www.codewars.com/users/mrdulin
 - <del>虾米音乐: https://www.xiami.com/u/38901955</del>
